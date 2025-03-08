@@ -1,0 +1,21 @@
+{
+  "name": "mport-aim-methodology",
+  "version": "1.0.0",
+  "description": "Michael Porter's AIM Methodology website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -c-1",
+    "start": "npx http-server -p 8080"
+  },
+  "keywords": [
+    "AIM Methodology",
+    "Sales Leadership",
+    "Michael Porter"
+  ],
+  "author": "Michael Porter",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
