@@ -1,0 +1,21 @@
+mport-aim-methodology/
+├── index.html
+├── about.html
+├── services.html
+├── methodology.html
+├── contact.html
+├── assets/
+│   ├── css/
+│   │   ├── main.css
+│   │   ├── normalize.css
+│   │   └── responsive.css
+│   ├── js/
+│   │   ├── main.js
+│   │   └── form-handler.js
+│   └── images/
+│       ├── michael-porter.jpg
+│       ├── aim-methodology-diagram.png
+│       ├── logo.png
+│       └── favicon.ico
+├── .gitignore
+└── README.md
