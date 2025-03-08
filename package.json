@@ -1,0 +1,36 @@
+{
+  "name": "mport-aim-methodology",
+  "version": "1.0.0",
+  "description": "Michael Porter's professional website showcasing the patent-pending AIM Methodology for sales transformation",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve -l 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AIM Methodology",
+    "Michael Porter",
+    "Sales Leadership",
+    "Revenue Growth",
+    "Data-Driven Sales",
+    "MPort Media Group"
+  ],
+  "author": "Michael Porter",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/mport-aim-methodology.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/mport-aim-methodology/issues"
+  },
+  "homepage": "https://mportmediagroup.com",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
