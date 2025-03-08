@@ -69,4 +69,4 @@ All rights reserved. The AIM Methodology is patent-pending.
 
 For inquiries about the AIM Methodology or this website, please contact:
 
-- Email: info@mportmediagroup.com
+- Email: sales@mportmedia.com
